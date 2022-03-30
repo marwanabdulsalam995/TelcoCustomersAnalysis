@@ -73,22 +73,17 @@ A fictional telco company that provided home phone and Internet services to 7043
 <li>Churn Score: A value from 0-100 that is calculated using the predictive tool IBM SPSS Modeler. The model incorporates multiple factors known to cause churn. The higher the score, the more likely the customer will churn.</li>
 <li>CLTV: Customer Lifetime Value. A predicted CLTV is calculated using corporate formulas and existing data. The higher the value, the more valuable the customer. High value customers should be monitored for churn.</li>
 <li>Churn Reason: A customer’s specific reason for leaving the company. Directly related to Churn Category.</li>
-
 </ul>
 
+> **Note**: This is a training project because it is an ITI graduation project. All of the data utilised is made up, and there are no limitations on modifying, removing, or otherwise altering the data to make it more suited for answering our analytical questions. 
 
+### Questions for Analysis
+- What impact do customer segments have on payment, subscriptions, and loyalty?
+- What are the company's finest offerings, internet types, and contract types? And how do they effect customer satisfaction?
+- What causes customers to quit the company?
+- How churn customer differ from current customers?
+- What is the performance of the braches of the business?
+- Is it a win-or-lose business?
 
-
-
-
-
-
-
-
-
-> **Note**: This project is an ITI graduation project so it's a training project. All data used are fictional and there's no restrictions on editing, deleting or any process can be used on data to make it more suitable to answer our analysis questions. 
-
-
-### Question(s) for Analysis
 
 
