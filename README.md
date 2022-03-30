@@ -39,7 +39,7 @@ A fictional telco company that provided home phone and Internet services to 7043
 
 #### Data Description
 7043 observations with 33 variables
-
+<ul>
 <li>CustomerID : A unique ID that identifies each customer.</li>
 <li>Count : A value used in reporting/dashboarding to sum up the number of customers in a filtered set.</li>
 <li>Country: The country of the customer’s primary residence.</li>
@@ -74,8 +74,21 @@ A fictional telco company that provided home phone and Internet services to 7043
 <li>CLTV: Customer Lifetime Value. A predicted CLTV is calculated using corporate formulas and existing data. The higher the value, the more valuable the customer. High value customers should be monitored for churn.</li>
 <li>Churn Reason: A customer’s specific reason for leaving the company. Directly related to Churn Category.</li>
 
+</ul>
+
+
+
+
+
+
+
+
+
+
 
 > **Note**: This project is an ITI graduation project so it's a training project. All data used are fictional and there's no restrictions on editing, deleting or any process can be used on data to make it more suitable to answer our analysis questions. 
 
 
 ### Question(s) for Analysis
+
+
